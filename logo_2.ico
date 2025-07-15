@@ -1,0 +1,21 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Фон (градиент) -->
+  <rect width="200" height="200" rx="20" fill="url(#bgGradient)" />
+  
+  <!-- Блоки (цепочка блокчейна) -->
+  <rect x="50" y="70" width="40" height="40" rx="5" fill="#F7931A" />
+  <rect x="110" y="70" width="40" height="40" rx="5" fill="#F7931A" />
+  <rect x="80" y="110" width="40" height="40" rx="5" fill="#F7931A" />
+  
+  <!-- Текст -->
+  <text x="100" y="170" font-family="Rajdhani, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">CRYPTO MASTER</text>
+  
+  <!-- Градиент -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0c29" />
+      <stop offset="50%" stop-color="#302b63" />
+      <stop offset="100%" stop-color="#24243e" />
+    </linearGradient>
+  </defs>
+</svg>
