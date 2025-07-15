@@ -40,6 +40,7 @@
     "Python.tkinter_smile.executor": "Run",
     "Python.tkinter_two.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -75,6 +76,7 @@
       <workItem from="1752524901054" duration="157000" />
       <workItem from="1752567203886" duration="4729000" />
       <workItem from="1752572026456" duration="367000" />
+      <workItem from="1752600351716" duration="139000" />
     </task>
     <servers />
   </component>
