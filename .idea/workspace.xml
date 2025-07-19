@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e1ff477-8d8d-499d-8b5c-a771fbbe52c5" name="Changes" comment="" />
+    <list default="true" id="8e1ff477-8d8d-499d-8b5c-a771fbbe52c5" name="Changes" comment="My first project on tkinter">
+      <change afterPath="$PROJECT_DIR$/5.2 задание.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Music.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calc-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk_Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk_brony.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk_clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk_text_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +29,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ILAI-BRO&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ILAI-BRO/tkinter.git&quot;,
+    &quot;accountId&quot;: &quot;f8c1b80f-333b-4940-ae74-4c9bc34c3e6b&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -28,31 +49,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.5.1 задание.executor": "Run",
-    "Python.tk_frame.executor": "Run",
-    "Python.tk_multi-line.executor": "Run",
-    "Python.tkinter.executor": "Run",
-    "Python.tkinter_Less.executor": "Run",
-    "Python.tkinter_frame.executor": "Run",
-    "Python.tkinter_smile.executor": "Run",
-    "Python.tkinter_two.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "settings.editor.splitter.proportion": "0.2758275",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.5.1 задание.executor&quot;: &quot;Run&quot;,
+    &quot;Python.clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tk_Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tk_clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tk_frame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tk_multi-line.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tk_text_window.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter_Less.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter_frame.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter_smile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tkinter_two.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/PYTHON/tkinter&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.intellij.pycharm.community.ide.impl.configuration.PythonContentEntriesConfigurable&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.2758275&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PYTHON\tkinter" />
+      <recent name="D:\PYTHON\tkint" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PYTHON\tkinter" />
     </key>
@@ -77,20 +109,44 @@
       <workItem from="1752567203886" duration="4729000" />
       <workItem from="1752572026456" duration="367000" />
       <workItem from="1752600351716" duration="139000" />
+      <workItem from="1752663704202" duration="1264000" />
+      <workItem from="1752666869726" duration="5045000" />
+      <workItem from="1752761929986" duration="1136000" />
+      <workItem from="1752773782408" duration="2253000" />
+      <workItem from="1752776064150" duration="2033000" />
+      <workItem from="1752860627981" duration="677000" />
     </task>
+    <task id="LOCAL-00001" summary="My first project on tkinter">
+      <option name="closed" value="true" />
+      <created>1752601991568</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752601991568</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first project on tkinter" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first project on tkinter" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/tkinter$tk_frame.coverage" NAME="tk_frame Coverage Results" MODIFIED="1752570066345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tkint" />
     <SUITE FILE_PATH="coverage/tkinter$tk_multi_line.coverage" NAME="tk_multi-line Coverage Results" MODIFIED="1752569517940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tkint" />
-    <SUITE FILE_PATH="coverage/tkinter$tkinter_Less.coverage" NAME="tkinter_Less Coverage Results" MODIFIED="1752517598731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/tkinter$tkinter_two.coverage" NAME="tkinter_two Coverage Results" MODIFIED="1752517701212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tkinter$5_1_.coverage" NAME="5.1 задание Coverage Results" MODIFIED="1752571868731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tkint" />
     <SUITE FILE_PATH="coverage/tkinter$tkinter.coverage" NAME="tkinter Coverage Results" MODIFIED="1752515762411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkint$tk_text_window.coverage" NAME="tk_text_window Coverage Results" MODIFIED="1752777851736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkint$tkint_message_box.coverage" NAME="tkint_message_box Coverage Results" MODIFIED="1752601458563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tkint" />
+    <SUITE FILE_PATH="coverage/tkinter$tk_frame.coverage" NAME="tk_frame Coverage Results" MODIFIED="1752570066345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../tkint" />
+    <SUITE FILE_PATH="coverage/tkint$clock.coverage" NAME="clock Coverage Results" MODIFIED="1752668377567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkint$tk_clock.coverage" NAME="tk_clock Coverage Results" MODIFIED="1752775919221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$tkinter_Less.coverage" NAME="tkinter_Less Coverage Results" MODIFIED="1752517598731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkinter$tkinter_two.coverage" NAME="tkinter_two Coverage Results" MODIFIED="1752517701212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tkint$tk_frame.coverage" NAME="tk_frame Coverage Results" MODIFIED="1752524854262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/tkint$tk_Calculator.coverage" NAME="tk_Calculator Coverage Results" MODIFIED="1752663740926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tkinter$tkinter_smile.coverage" NAME="tkinter_smile Coverage Results" MODIFIED="1752518580988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/tkinter$tkinter_frame.coverage" NAME="tkinter_frame Coverage Results" MODIFIED="1752524723185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
